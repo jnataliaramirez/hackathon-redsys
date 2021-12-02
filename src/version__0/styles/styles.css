@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: solid black 5px;
+}
+
+.main__title{
+    padding: 5vh;
+}
+
+.main__center--title{
+    border-style: dotted;
+    padding: 5vh;
+}
+
+.main__center{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.center__rigth--item{
+    border: solid black 5px;
+    padding: 1vh;
+    margin: 5px;
+} */
